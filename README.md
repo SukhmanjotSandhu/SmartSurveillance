@@ -148,8 +148,3 @@ This project uses YOLOv5, which is licensed under the [GNU GPL v3.0](https://git
 - [Streamlit](https://streamlit.io/)
 
 ---
-
-## Author
-
-*Sukhmanjot Singh Sandhu*
-*Karan Kuhar*
